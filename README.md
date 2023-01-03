@@ -1,0 +1,2 @@
+# EverySentence
+Every echo.
